@@ -306,7 +306,7 @@ For issues or questions, please refer to the manuscript documentation or contact
 
 ## License
 
-GPL
+GPLv3
 
 ---
 
